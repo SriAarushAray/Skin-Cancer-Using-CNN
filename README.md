@@ -91,7 +91,7 @@ python src/train.py
 streamlit run app/main.py
 ```
 
-**📊 Results**
+## **📊 Results**
 
 ✔ 90%+ validation accuracy
 
@@ -99,7 +99,7 @@ streamlit run app/main.py
 
 ✔ Works on unseen dermoscopic images
 
-🔮 Future Enhancements
+## **🔮 Future Enhancements**
 
 Add transfer learning (EfficientNet / VGG16)
 
@@ -109,6 +109,6 @@ Add Grad-CAM heatmaps for explainability
 
 Deploy to HuggingFace Spaces
 
-📜 License
+## **📜 License**
 
 This project is licensed under the MIT License.
