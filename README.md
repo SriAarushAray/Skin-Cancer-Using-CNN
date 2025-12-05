@@ -1,9 +1,20 @@
 # **Skin-Cancer-Using-CNN**
 Deep learning-based skin cancer detection system using CNNs, trained on dermoscopic images. Includes complete training pipeline, data preprocessing, Streamlit deployment, and a ready-to-use classification model for benign vs. malignant lesions.
 
-📘 Table of Contents
-
-
+ **📘 Table of Contents
+## **📁 Project Structure**
+```
+skin-cancer-detection/
+│
+├── app/main.py              # Streamlit app
+├── src/model.py             # CNN model architecture
+├── src/preprocess.py        # Data preprocessing
+├── src/train.py             # Training pipeline
+├── notebook/skin_cancer_detection.ipynb
+├── images/                  # Sample images
+├── requirements.txt
+└── README.md
+```
 ## **Features**
 
 - Tech Stack
@@ -112,3 +123,15 @@ Deploy to HuggingFace Spaces
 ## **📜 License**
 
 This project is licensed under the MIT License.
+
+## **Requirements.txt**
+```
+tensorflow
+keras
+numpy
+opencv-python
+matplotlib
+streamlit
+kagglehub
+Pillow
+```
