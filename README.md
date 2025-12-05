@@ -58,7 +58,7 @@ Technology	Purpose
 
 ## **🔧 Installation**
 ```
-git clone https://github.com/<your-username>/skin-cancer-detection.git
+git clone https://github.com/<SriAarushAray>/skin-cancer-detection.git
 cd skin-cancer-detection
 pip install -r requirements.txt
 ```
