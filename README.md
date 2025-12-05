@@ -1,7 +1,6 @@
 # **Skin-Cancer-Using-CNN**
 Deep learning-based skin cancer detection system using CNNs, trained on dermoscopic images. Includes complete training pipeline, data preprocessing, Streamlit deployment, and a ready-to-use classification model for benign vs. malignant lesions.
-📸 Sample Dermoscopic Images
-<p align="center"> <img src="images/benign_example.jpg" width="250"/> <img src="images/malignant_example.jpg" width="250"/> </p>
+
 📘 Table of Contents
 
 
